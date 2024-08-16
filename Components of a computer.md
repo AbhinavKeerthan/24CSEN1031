@@ -1,6 +1,6 @@
 # Input Devices
-Keyboard: Used for typing text and commands.
-Mouse: A pointing device used to interact with graphical elements on the screen.
+Keyboard: Used for typing text and commands. return
+Mouse: A pointing device used to interact with graphical elements on the screen
 Touchscreen: Allows users to interact directly with what is displayed.
 Scanner: Converts physical documents into digital format.
 Microphone: Captures audio input.
