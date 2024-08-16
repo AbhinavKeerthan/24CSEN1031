@@ -59,4 +59,4 @@ Braille Display: Outputs text for visually impaired users by raising dots throug
 Network Card: Outputs data to a network (though it's more of a communication device, it can be considered an output device for network data).
 
 
-These devices help users interact with computers by providing means to input data and commands and to receive and view processed data.
+_These devices help users interact with computers by providing means to input data and commands and to receive and view processed data._
