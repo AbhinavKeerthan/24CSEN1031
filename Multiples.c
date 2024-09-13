@@ -43,3 +43,28 @@ int main(){
              printf("\n %d" , m);
     return 0;
 }
+
+
+
+
+#include <stdio.h>
+
+int main() {
+    int a;
+    printf("Enter your number: ");
+    scanf("%d" , &a);
+    
+    int b;
+    printf("Enter number of multiples required: ");
+    scanf("%d" , &b);
+    
+    int i = 1;
+    while(i<=b)
+    {
+        int c = a*i;
+        printf("%d x %d = %d\n" ,a, i, c);
+        i++;
+    }
+    return 0;
+    
+}
